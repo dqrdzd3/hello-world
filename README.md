@@ -1,2 +1,3 @@
-# hello-world
-my test for the github
+public static void main(String[] args){
+  System.out.println("Hello world!");
+}
